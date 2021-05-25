@@ -1,7 +1,7 @@
 
 <h2 align=center>Y Combinator companies for Javi</h2>
 
-# Computer Vision & AI
+# Computer Vision & AI companies
 
 
 ### :brain: Only IA
@@ -20,7 +20,7 @@
 | [Cord](https://www.ycombinator.com/companies/cord)                             | Automating data creation for computer vision          |  W21 | London           |    2 |
 
 
-### :car: Computer Vision & AI for Self-driving cars
+### :car: Self-driving cars
 
 | Company                                                                        | Description                                           | Year | Location         | Team | 
 |:------------------------------------------------------------------------------:|:------------------------------------------------------|:----:|:----------------:|-----:|
@@ -37,7 +37,7 @@
 | [Hermes Robotics](https://www.ycombinator.com/companies/hermes-robotics)       | Self-driving trucks                                   |  W21 | San Francisco    |    4 |
 
 
-### :apple: Computer Vision & AI for food & items
+### :apple: Food & items recognition
 
 | Company                                                                        | Description                                           | Year | Location         | Team | 
 |:------------------------------------------------------------------------------:|:------------------------------------------------------|:----:|:----------------:|-----:|
@@ -50,7 +50,7 @@
 | [Glisten AI](https://www.ycombinator.com/companies/glisten-ai)                 | Extract tags from e-commerce products (images & text) |  W20 | San Francisco    |    1 |
 
 
-### 🙍 Computer Vision & AI for environments & people
+### 🙍 Computer Environments & people recognition
 
 | Company                                                                        | Description                                           | Year | Location         | Team | 
 |:------------------------------------------------------------------------------:|:------------------------------------------------------|:----:|:----------------:|-----:|
@@ -60,9 +60,9 @@
 | [Ambient.ai](https://www.ycombinator.com/companies/ambient-ai)                 | AI-powered vision for security                        |  W17 | Palo Alto        |   35 |
 
 
-# :dna: Biology, Medicine & Helthcare
+# :dna: Biology, Medicine & Helthcare companies
 
-I like this topic but I prefer AI for Computer Vision.
+I like this topic **but I prefer AI for Computer Vision**.
 
 | Company                                                                        | Description                                           | Year | Location         | Team | 
 |:------------------------------------------------------------------------------:|:------------------------------------------------------|:----:|:----------------:|-----:|
