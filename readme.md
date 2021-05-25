@@ -60,7 +60,7 @@
 | [Ambient.ai](https://www.ycombinator.com/companies/ambient-ai)                 | AI-powered vision for security                        |  W17 | Palo Alto        |   35 |
 
 
-# :dna: Biology, Medicine & Helthcare companies
+# :dna: Biology, Medicine & Healthcare companies
 
 I like this topic **but I prefer AI for Computer Vision**.
 
