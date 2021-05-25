@@ -1,4 +1,6 @@
 
+<h2 align=center>Y Combinator companies for Javi</h2>
+
 # Computer Vision & AI
 
 
